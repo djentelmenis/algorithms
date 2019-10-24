@@ -34,19 +34,3 @@ for i in range(0, len(edgeList)):
 
 # Returns 18
 print(triangleCount)
-
-
-
-
-
-for edge in edgeList:
-    print(edge)
-print()
-
-for i in range(0, len(adjList)):
-    print(adjList[i])
-print()
-
-for node in adjMatrix:
-    print(node)
-print()

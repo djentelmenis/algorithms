@@ -27,18 +27,3 @@ orderCollection(gemList, orderedGemList, 0)
 for i in range(0, len(orderedGemList)):
     print("GEM-{} <-- ".format(orderedGemList[i][0]), end = '')
 
-
-
-
-
-print()
-for i in range(0, len(orderedGemList)):
-    print(orderedGemList[i][0], orderedGemList[i])
-print()
-
-
-print()
-print()
-for i in range(0, len(gemList)):
-    print(gemList[i])
-print()
